@@ -12,7 +12,8 @@ A sleek, fast mobile flight search app built with **Expo**, **React Native**, **
 - 💰 Agent comparison with pricing and ratings
 - 📄 Flight details view with logo, duration, stops, and more
 - 🌙 Dark mode friendly (Tailwind / NativeWind)
-- 🧠 State managed via React Query
+- 🧠 State managed via React Query, React hook form, Context API
+- 🔐 Secure authentication with Supabase
 
 ---
 
