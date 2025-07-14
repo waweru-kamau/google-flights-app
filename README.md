@@ -1,6 +1,6 @@
 # Google Flights Clone ✈️
 
-A sleek, fast mobile flight search app built with **Expo**, **React Native**, **TypeScript**, and **React Query**. Users can search for one-way or round-trip flights, view pricing options from multiple agents, and get detailed flight info — all with a modern UX.
+A sleek, fast mobile flight search app built with **Expo**, **React Native**, **TypeScript**, **React Query** and **Supabase**. Users can search for one-way or round-trip flights, view pricing options from multiple agents, and get detailed flight info — all with a modern UX.
 
 ---
 
