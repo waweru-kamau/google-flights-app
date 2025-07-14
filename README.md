@@ -68,8 +68,8 @@ This launches the Expo dev tools and runs on iOS Simulator.
 
 ## 📸 Screenshots (Placeholder)
 
-| Search Flights | Results View | Flight Details |
-|----------------|--------------|----------------|
+| Search Flights | Flight Details | Light mode |
+|----------------|----------------|------------|
 | ![Search](./screenshots/s1.png) | ![Results](./screenshots/s2.png) | ![Details](./screenshots/s3.png) |
 
 ---
